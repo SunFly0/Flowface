@@ -1,5 +1,5 @@
 # FlowFace
-FlowFace: Rectifying Identity Conditioning with Riemannian Geometry for Face Generation \
+Official implementation of the ECCV 2026 paper "FlowFace: Rectifying Identity Conditioning with Riemannian Geometry for Face Generation ".
 
 ## Abstract
 Diffusion-based face generation commonly combines identity cues and edit conditions through Euclidean mixing at the conditioning interface.
